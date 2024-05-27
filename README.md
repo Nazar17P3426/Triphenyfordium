@@ -1,2 +1,2 @@
 # Triphenyfordium
-my new insane malware
+C++ GDI trojan by red-wipet
